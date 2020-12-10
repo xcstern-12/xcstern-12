@@ -24,8 +24,8 @@
 
 **Socials & Links:**  
 
-<a href="https://discord.gg/v7D6pCm">
-  <img align="left" alt="Absract Studios Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="discord.com/aEyMq5Dt5z">
+  <img align="left" alt="Xbox 360 Hub Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/xsternttv">
   <img align="left" alt" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
