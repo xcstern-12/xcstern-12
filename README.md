@@ -24,7 +24,7 @@
 
 **Socials & Links:**  
 
-<a href="discord.com/aEyMq5Dt5z">
+<a href="https://discord.gg/aEyMq5Dt5z">
   <img align="left" alt="Xbox 360 Hub Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/xsternttv">
